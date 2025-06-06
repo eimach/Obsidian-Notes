@@ -1,0 +1,5 @@
+- Formatting Issues - Gets very occluded and hard to see whats new, not consistent spacing after messages for inputs
+- No caps to stats - Strength
+- "This place does not exist" - when changing areas despite ending up in new area
+- Objects not displaying name
+- change order of check inventory code

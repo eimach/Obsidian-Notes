@@ -1,0 +1,11 @@
+# <u>Games for Inspiration</u>
+- Pokémon - Travelling (Unique Instance for each location) + Collecting Items
+- Persona Series/SMT Series - Combat Options (flee, physical attack or "magic/skill attack", guard + attribute stats such as lightning against fire etc.) + Social Links (converse with/offer items to gain extra items/shop system)
+- Shadow of the Colossus - Beat bosses to unlock items needed to progress
+- Elden Ring - Great Rune gathering: a minimum amount needed to progress to ending + Unique Buffs that can be gained from each great rune.
+
+# Analysis Write-Up (1-2 Pages)
+For my treasure hunt game, I plan to create a primarily command-line based game with minimal graphics to simplify the game and make it easier to develop. Some games that that I want to implement certain features from into my game in some form are:
+- Pokémon: I would like to implement the travelling system for how the player of my game will move through different locations in a way that there are various central locations that will then let the player travel to other locations from the central location than letting the player travel from any location to another location.
+- Persona Series/Shin Megami Tensei Series: These games feature a unique RPG turn-based combat style that allows player to use a "persona" (which is like a magic system), a physical attack, an item and guard. A key feature of this combat system is a "One More" system which lets the player take another turn if they hit an enemy's weakness. I would like to add this feature to my game as it would enhance the experience and add a layer of thought and tactics for the player to not be bored by each battle. I may also add a form of the Persona game's "Social Link" system where players are able to build a bond with NPCs which can unlock certain items if the bond is increased enough. I want to include this feature as it will encourage players to not ignore NPCs and see if they can make their experience through the story better with the unique items they can unlock from the NPCs.
+- Elden Ring - A feature from Elden Ring I want to include is the Great Runes that are acquired from each
