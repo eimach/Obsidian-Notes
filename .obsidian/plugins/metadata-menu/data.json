@@ -1,0 +1,154 @@
+{
+  "presetFields": [
+    {
+      "type": "YAML",
+      "tagName": "yaml",
+      "icon": "file-json-2",
+      "tooltip": "Accepts a YAML object",
+      "colorClass": "file",
+      "options": {},
+      "name": "title",
+      "id": "2pOMlb",
+      "path": ""
+    },
+    {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "date",
+      "id": "9S8MK6",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Lesson Note",
+          "2": "Research",
+          "3": "Personal Learning",
+          "4": "Personal Life"
+        }
+      },
+      "name": "type",
+      "id": "MkMxNs",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "A-Level",
+          "2": "Computer-Science",
+          "3": "Mathematics",
+          "4": "Economics",
+          "5": "Music",
+          "6": "Personal"
+        }
+      },
+      "name": "tags",
+      "id": "jy0O7n",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {
+        "template": ""
+      },
+      "name": "topic",
+      "id": "3uqIxz",
+      "path": ""
+    },
+    {
+      "type": "Cycle",
+      "tagName": "cycle",
+      "icon": "switch",
+      "tooltip": "Cycles through values from a list",
+      "colorClass": "cycle",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Computer Science",
+          "2": "Mathematics",
+          "3": "Economics",
+          "4": "Music"
+        }
+      },
+      "name": "subject",
+      "id": "cyGyGO",
+      "path": ""
+    },
+    {
+      "type": "Cycle",
+      "tagName": "cycle",
+      "icon": "switch",
+      "tooltip": "Cycles through values from a list",
+      "colorClass": "cycle",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "A-Level",
+          "2": "Personal Learning",
+          "3": "MOC",
+          "4": "Research",
+          "5": "Personal Life"
+        }
+      },
+      "name": "category",
+      "id": "lAJ1Xt",
+      "path": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.17",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true
+}

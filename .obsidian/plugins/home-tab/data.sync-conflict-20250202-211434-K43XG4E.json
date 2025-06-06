@@ -1,0 +1,61 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 2,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - HM HTML, CSS, JavaScript.md",
+      "timestamp": 1738423883485
+    },
+    {
+      "filepath": "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md",
+      "timestamp": 1738423880751
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "000 Index.md"
+    },
+    {
+      "filepath": "02. School Content/010 A Levels/011 Year 12/A Levels.md"
+    },
+    {
+      "filepath": "040 Readings Index.md"
+    },
+    {
+      "filepath": "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md"
+    },
+    {
+      "filepath": "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths MOC.md"
+    },
+    {
+      "filepath": "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics MOC.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true
+}

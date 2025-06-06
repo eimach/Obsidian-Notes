@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "58e0e804ac12addb",
+    "type": "split",
+    "children": [
+      {
+        "id": "59eb430665a6d376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a72c657c276b60",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "000 Index"
+            }
+          },
+          {
+            "id": "14ae8c4ea63aae60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Daily/2025-01-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-26"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "943daaaaed390cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e11c77c293a2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b28e066f6e9e98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5bf3f288dd8bb22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cbdb447085ce18f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "80b20723298552d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadfeab6580c7d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e541a72903412816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Daily/2025-01-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-26"
+            }
+          },
+          {
+            "id": "47e3bec75db2c0aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hello"
+            }
+          },
+          {
+            "id": "5a5bb89546196721",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "369bf246c84a95d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Daily/2025-01-26.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-26"
+            }
+          },
+          {
+            "id": "c79c7f5ba623be26",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "media-extended:Open media": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "14ae8c4ea63aae60",
+  "lastOpenFiles": [
+    "11. Templates/Daily Note Template.md",
+    "01. Daily/2025-01-26.md",
+    "Daily Notes/2025-01-26.md",
+    "Daily Notes",
+    "11. Templates/MOC Template.md",
+    "000 Index.md",
+    "03. Personal Life/Daily Note MOC.md",
+    "01. Daily/2025-01-25.md",
+    "05. Clippings/CLP --  AutoHotkey.md",
+    "01. Daily/2025-01-30.md",
+    "02. School Content/010 A Levels/011 Year 12/A Levels.md",
+    "01. Daily/2025-01-24.md",
+    "06. Unsorted/Music Sample Ideas.md",
+    "06. Unsorted/CS - NY - Data Types.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Micro MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Macro MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Macro - Unemployment.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Macro - Unemployment 15 Marker.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Appraising MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Composition Log MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Composition MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths - Mechanics MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths - Mechanics - SUVAT Equations.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/~syncthing~011-1-01 Computer Science DC3 Kanban.md.tmp",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/~syncthing~011-1-3 Input Devices.md.tmp",
+    "01. Daily/~syncthing~2025-01-25.md.tmp",
+    "~syncthing~Untitled.md.tmp",
+    "Projects",
+    "Daily/~syncthing~2025-01-25.md.tmp",
+    "Daily",
+    "DC 2 Report - Student152752.pdf",
+    "10. Media/Pasted image 20250124101225.png",
+    "Clippings",
+    "10. Media/Pasted image 20250107152738.png",
+    "10. Media/Pasted image 20250121151608.png",
+    "10. Media/Pasted image 20250121151513.png",
+    "10. Media/Pasted image 20250121151059.png",
+    "10. Media/Pasted image 20250121150517.png",
+    "10. Media/Pasted image 20250121145215.png",
+    "10. Media/Pasted image 20250120144217.png",
+    "10. Media/Pasted image 20241205092517.png",
+    "10. Media/Pasted image 20241125144726.png"
+  ]
+}

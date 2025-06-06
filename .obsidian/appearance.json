@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Lexend",
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": "#ffda24",
+  "textFontFamily": "SN Pro",
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "minimal-padding-fix"
+  ],
+  "baseFontSize": 17
+}

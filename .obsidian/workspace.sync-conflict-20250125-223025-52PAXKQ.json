@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "58e0e804ac12addb",
+    "type": "split",
+    "children": [
+      {
+        "id": "59eb430665a6d376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c87f481d0399806",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "943daaaaed390cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e11c77c293a2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b28e066f6e9e98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5bf3f288dd8bb22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cbdb447085ce18f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "80b20723298552d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadfeab6580c7d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e541a72903412816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "011-1-01 Computer Science DC3 Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 011-1-01 Computer Science DC3 Kanban"
+            }
+          },
+          {
+            "id": "47e3bec75db2c0aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hello"
+            }
+          },
+          {
+            "id": "5a5bb89546196721",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "369bf246c84a95d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6dd543d7ce81b2e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "9c87f481d0399806",
+  "lastOpenFiles": [
+    "11. Templates/~syncthing~Daily Note Template.md.tmp",
+    "01. Daily/~syncthing~2025-01-26.md.tmp",
+    "01. Daily/2025-01-26.md",
+    "03. Personal Life/~syncthing~Daily Note MOC.md.tmp",
+    "01. Daily/2025-01-30.md",
+    "01. Daily/~syncthing~2025-01-30.md.tmp",
+    "~syncthing~000 Index.md.tmp",
+    "01. Daily/~syncthing~2025-01-25.md.tmp",
+    "01. Daily/~syncthing~2025-01-24.md.tmp",
+    "03. Personal Life/Daily Note MOC.md",
+    "01. Daily/Daily Note MOC.md",
+    "06. Unsorted/~syncthing~Daily Note MOC.md.tmp",
+    "06. Unsorted/Daily Note MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/~syncthing~Economics - Micro MOC.md.tmp",
+    "02. School Content/010 A Levels/011 Year 12/A Levels.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/~syncthing~Computer Science MOC.md.tmp",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Macro - Unemployment 15 Marker.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Macro - Unemployment.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Micro MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Macro MOC.md",
+    "06. Unsorted/Economics - Micro MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths - Mechanics - SUVAT Equations.md",
+    "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths - Mechanics MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-3 Maths/Maths MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Composition Log MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Composition MOC.md",
+    "06. Unsorted/Music - Composition MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Appraising MOC.md",
+    "06. Unsorted/Music - Appraising MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music - Composition - Ski Advert Journal.md",
+    "02. School Content/010 A Levels/011 Year 12/011-2 Music/Music MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - Pseudocode Ramblings.md",
+    "06. Unsorted/CS - NY - Data Types.md",
+    "10. Media/Pasted image 20250124101225.png",
+    "10. Media/Pasted image 20250107152738.png",
+    "10. Media/Pasted image 20250121151608.png",
+    "10. Media/Pasted image 20250121151513.png",
+    "10. Media/Pasted image 20250121151059.png",
+    "10. Media/Pasted image 20250121150517.png",
+    "10. Media/Pasted image 20250121145215.png",
+    "10. Media/Pasted image 20250120144217.png",
+    "10. Media/Pasted image 20241205092517.png",
+    "10. Media/Pasted image 20241125144726.png"
+  ]
+}

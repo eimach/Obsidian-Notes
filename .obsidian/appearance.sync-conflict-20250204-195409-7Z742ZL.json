@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Lexend",
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": "",
+  "textFontFamily": "SN Pro",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "baseFontSize": 17
+}

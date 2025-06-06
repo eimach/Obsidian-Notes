@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "41c21cc493653895",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbef6118b6652b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dead42432eb0ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Archived/Music Sample Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music Sample Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b609f3b58c150a3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8de131670b34a10a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "756c60824d4f50e9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8b89724fec3e8be5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2e3dcb6d39405a54",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2186a0613cda56fa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4174a6b07a9d8fa0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01. Daily/2025-01-25.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e8019178c28f03bc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "hello.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c57bde9fa9373f4a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "12. Archived/Music Sample Ideas.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "92d098d249d8b848",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7f2fb3bf69e51d4c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "9dead42432eb0ebc",
+  "lastOpenFiles": [
+    "01. Daily/2025-02-02.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - NY- Flip-Flops.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - NY Boolean Algebra.md",
+    "01. Daily/2025-01-31.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/A Levels.md",
+    "01. Daily/2025-01-25.md",
+    "03. Personal Life/Daily Note MOC.md",
+    "01. Daily/2025-01-24.md",
+    "000 Index.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-01 Computer Science DC3 Kanban.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-0 Revision Lists.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1 Computer Science.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1 AlphaGo Documentary.md",
+    "07. Projects/Treasure Hunt Game - CS/Treasure Hunt Game.md",
+    "07. Projects/Treasure Hunt Game - CS/Treasure Hunt Design Section.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-RW Computational Thinking.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-RW-1 Thinking Ahead.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-RW-1 Thinking Procedurally.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-RW-1 Abstraction.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-HM HTML, CSS, JavaScript.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-NY Boolean Algebra.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-NY-2 Flip-Flops.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-NY-2 Half & Full Adders.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-NY-2 Karnaugh Maps.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/011-1-NY-2 Truth Tables & Logic Gates.md",
+    "Ink/Drawing/2024.12.14 - 15.10pm.drawing",
+    "Ink/Drawing/2024.12.14 - 15.10pm.sync-conflict-20241214-151237-6EWJVNY.drawing",
+    "Ink/Drawing/2024.12.14 - 15.10pm.sync-conflict-20241214-151238-6EWJVNY.drawing",
+    "Ink/Drawing/2024.12.14 - 15.10pm.sync-conflict-20241214-151239-6EWJVNY.drawing",
+    "Ink/Drawing",
+    "Ink/Writing/2024.12.14 - 15.08pm.writing"
+  ]
+}

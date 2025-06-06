@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📊",
+      "🧮",
+      "✖",
+      "🎹",
+      "🖥"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "School Content": "🏫",
+  "School Content/010 A Levels/011 Year 12/011-1 Computer Science": "🖥",
+  "School Content/010 A Levels/011 Year 12/011-2 Music": "🎹",
+  "School Content/010 A Levels/011 Year 12/011-3 Maths": "🧮",
+  "School Content/010 A Levels/011 Year 12/011-4 Economics": "📊"
+}

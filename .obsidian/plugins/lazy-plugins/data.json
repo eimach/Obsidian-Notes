@@ -1,0 +1,102 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "table-editor-obsidian": {
+        "startupType": "long"
+      },
+      "obsidian-annotator": {
+        "startupType": "disabled"
+      },
+      "auto-card-link": {
+        "startupType": "long"
+      },
+      "auto-note-mover": {
+        "startupType": "short"
+      },
+      "better-word-count": {
+        "startupType": "instant"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "editing-toolbar": {
+        "startupType": "long"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "disabled"
+      },
+      "home-tab": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "ink": {
+        "startupType": "disabled"
+      },
+      "obsidian-kanban": {
+        "startupType": "short"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "long"
+      },
+      "obsidian-linter": {
+        "startupType": "instant"
+      },
+      "make-md": {
+        "startupType": "disabled"
+      },
+      "media-extended": {
+        "startupType": "long"
+      },
+      "metadata-menu": {
+        "startupType": "instant"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "note-refactor-obsidian": {
+        "startupType": "disabled"
+      },
+      "note-toolbar": {
+        "startupType": "disabled"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "short"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "text-extractor": {
+        "startupType": "long"
+      },
+      "chord-sheets": {
+        "startupType": "disabled"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      }
+    },
+    "loadOrder": []
+  }
+}

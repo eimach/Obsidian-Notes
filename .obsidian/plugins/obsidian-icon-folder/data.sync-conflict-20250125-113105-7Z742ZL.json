@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiActivity",
+      "LiLayoutTemplate",
+      "LiSchool2",
+      "LiPaperclip",
+      "LiCalendarX"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "01. Daily": "LiCalendarX",
+  "02. School Content": "LiSchool2",
+  "02. School Content/010 A Levels/011 Year 12/011-2 Music": "🎹",
+  "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science": "🖥",
+  "02. School Content/010 A Levels/011 Year 12/011-3 Maths": "🧮",
+  "02. School Content/010 A Levels/011 Year 12/011-4 Economics": "📊",
+  "04. Readings": "LiNotebookTabs",
+  "05. Clippings": "LiPaperclip",
+  "06. Unsorted": "LiFileQuestion",
+  "09. Ink": "LiPen",
+  "07. Projects": "LiWorkflow",
+  "08. Excalidraw": "LiSquarePen",
+  "10. Media": "LiTv2",
+  "11. Templates": "LiLayoutTemplate",
+  "03. Personal Life": "LiActivity"
+}

@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "58e0e804ac12addb",
+    "type": "split",
+    "children": [
+      {
+        "id": "59eb430665a6d376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ae8c4ea63aae60",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Personal Life/Daily Note MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note MOC"
+            }
+          },
+          {
+            "id": "f3e4912f88677014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Science MOC"
+            }
+          },
+          {
+            "id": "e6572154b102d786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Daily/2025-02-04.sync-conflict-20250204-195409-7Z742ZL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-04.sync-conflict-20250204-195409-7Z742ZL"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "943daaaaed390cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e11c77c293a2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b28e066f6e9e98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5bf3f288dd8bb22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cbdb447085ce18f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "80b20723298552d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadfeab6580c7d89",
+        "type": "tabs",
+        "dimension": 55.59701492537313,
+        "children": [
+          {
+            "id": "e541a72903412816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Daily/2025-01-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-26"
+            }
+          },
+          {
+            "id": "47e3bec75db2c0aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hello"
+            }
+          },
+          {
+            "id": "5a5bb89546196721",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3795f32e59a99d6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "369bf246c84a95d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Daily/2025-02-04.sync-conflict-20250204-195409-7Z742ZL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-04.sync-conflict-20250204-195409-7Z742ZL"
+            }
+          },
+          {
+            "id": "c79c7f5ba623be26",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "38de4b5ff257f0f4",
+        "type": "tabs",
+        "dimension": 44.40298507462687,
+        "children": [
+          {
+            "id": "6cab65ac2efa3284",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "49b28e066f6e9e98",
+  "lastOpenFiles": [
+    "01. Daily/2025-02-04.md",
+    "01. Daily/2025-02-04.sync-conflict-20250204-195409-7Z742ZL.md",
+    "03. Personal Life/Daily Note MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/Computer Science MOC.md",
+    "01. Daily/~syncthing~2025-02-04.md.tmp",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - Revision Lists.md",
+    "12. Archived/ARC.CS - DC3 Kanban.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - HM - HTML, CSS, JavaScript.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - NY - Output Devices.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - NY - Components of a Computer and Their Uses.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - RW - Data Structures.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - RW - Stacks.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - RW - Lists, Arrays, Tuples.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - RW - 2D & 3D Arrays, Records, Linked Lists.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - RW - Queues.md",
+    "06. Unsorted/Economics - Micro - Externalities.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics - Micro MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/011-4 Economics/Economics MOC.md",
+    "02. School Content/010 A Levels/011 Year 12/A Levels.md",
+    "000 Index.md",
+    "01. Daily/2025-02-03.md",
+    "05. Clippings/CLP --  AutoHotkey.md",
+    "01. Daily/2025-02-01.md",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/CS - Resources.md",
+    "01. Daily/2025-01-30.md",
+    "06. Unsorted/CS - NY - Data Types.md",
+    "06. Unsorted/Ramblings.md",
+    "10. Media/Pasted image 20250130121314.png",
+    "10. Media/Pasted image 20250130121101.png",
+    "10. Media/Pasted image 20250130120841.png",
+    "10. Media/Pasted image 20250130120538.png",
+    "06. Unsorted/Untitled.canvas",
+    "12. Archived",
+    "Daily Notes",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/~syncthing~011-1-01 Computer Science DC3 Kanban.md.tmp",
+    "02. School Content/010 A Levels/011 Year 12/011-1 Computer Science/~syncthing~011-1-3 Input Devices.md.tmp",
+    "01. Daily/~syncthing~2025-01-25.md.tmp",
+    "~syncthing~Untitled.md.tmp",
+    "Projects",
+    "Daily/~syncthing~2025-01-25.md.tmp",
+    "Daily",
+    "10. Media/Pasted image 20250124101225.png",
+    "10. Media/Pasted image 20250107152738.png",
+    "10. Media/Pasted image 20250121151608.png",
+    "10. Media/Pasted image 20250121151513.png",
+    "10. Media/Pasted image 20250121151059.png",
+    "10. Media/Pasted image 20250121150517.png"
+  ]
+}

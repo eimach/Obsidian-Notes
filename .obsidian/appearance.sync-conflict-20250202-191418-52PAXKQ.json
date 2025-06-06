@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Fira Sans",
+  "monospaceFontFamily": "Fira Code",
+  "accentColor": "#eba000",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}
