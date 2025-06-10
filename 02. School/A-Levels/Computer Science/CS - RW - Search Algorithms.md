@@ -65,6 +65,7 @@ def binarySearch(arr, low, high, x):
 | F    | 5                        | E             |
 | G    | 5                        | E             |
 
+# A* Algorithm
 
 # Time Complexity
 - [[CS - RW - Time Complexity, Space Complexity & Big O Notation]]

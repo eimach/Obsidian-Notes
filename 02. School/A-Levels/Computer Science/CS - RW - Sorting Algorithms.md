@@ -54,6 +54,7 @@ type: Lesson Note
 - Time Complexity: Worst Case = $O(n^2)$. Best Case = $O(n\log n)$ 
 - Good Choice for Pivot?
 - Why not always choose best pivot?
+-
 # Related Notes
 [[CS - RW - Algorithms]]
 [[CS - RW - Time Complexity, Space Complexity & Big O Notation]]
