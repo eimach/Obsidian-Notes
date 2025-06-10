@@ -66,8 +66,9 @@ def binarySearch(arr, low, high, x):
 | G    | 5                        | E             |
 
 # A* Algorithm
-- Uses Heuristics to obtain an estimated distance to end point
+- A form of  **Dijkstra's Algorithm** that uses Heuristics to obtain an estimated distance to end point
 	- Heuristic must be an *under-estimate* or you can end up ignoring the correct path
+	- Worst possible heuristic is 0 so total becomes useless and end up doing **Dijkstra's Algorithm**
 Put notes here
 # Time Complexity
 - [[CS - RW - Time Complexity, Space Complexity & Big O Notation]]
