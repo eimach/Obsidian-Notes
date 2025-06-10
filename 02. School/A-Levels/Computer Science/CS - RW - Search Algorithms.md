@@ -66,7 +66,8 @@ def binarySearch(arr, low, high, x):
 | G    | 5                        | E             |
 
 # A* Algorithm
-
+- Uses Heuristics to obtain an estimated 
+Put notes here
 # Time Complexity
 - [[CS - RW - Time Complexity, Space Complexity & Big O Notation]]
 
