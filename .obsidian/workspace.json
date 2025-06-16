@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily/2025-06-13.md",
+                "file": "00. Daily/2025-06-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-13"
+              "title": "2025-06-16"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily/2025-06-13.md",
+                "file": "00. Daily/2025-06-16.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-13"
+              "title": "Outline of 2025-06-16"
             }
           },
           {
@@ -273,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Daily/2025-06-13.md",
+                "file": "00. Daily/2025-06-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -301,7 +301,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-06-13"
+              "title": "Graph of 2025-06-16"
             }
           }
         ]
@@ -326,10 +326,12 @@
   },
   "active": "4479d7af3d60ebcf",
   "lastOpenFiles": [
+    "CS - NEA - Project Ideation.md",
+    "00. Daily/2025-06-16.md",
+    "CS - NEA - Analysis Guides.md",
+    "00. Daily/2025-06-13.md",
     "ugclug.md",
     "CS - Missed Topics.md",
-    "CS - NEA - Analysis Guides.md",
-    "CS - NEA - Project Ideation.md",
     "Maths Project Copy.md",
     "Music Essay.md",
     "okpli.md",
@@ -340,7 +342,6 @@
     "08. Media & Resources/Pasted image 20250613100750.png",
     "08. Media & Resources/Pasted image 20250613100745.png",
     "08. Media & Resources/Pasted image 20250613100622.png",
-    "00. Daily/2025-06-13.md",
     "08. Media & Resources/Pasted image 20250613092654.png",
     "00. Daily/2025-06-07.md",
     "02. School/A-Levels/Computer Science/CS - NY - Networks & Web Technologies.md",
@@ -358,7 +359,6 @@
     "08. Media & Resources/Pasted image 20250603104029.png",
     "02. School/A-Levels/Computer Science/CS - RW - Time Complexity, Space Complexity & Big O Notation.md",
     "08. Media & Resources/Pasted image 20250602113658.png",
-    "00. Daily/2025-06-02.md",
     "08. Media & Resources/Pasted image 20250520134853.png",
     "08. Media & Resources/Pasted image 20250519151742.png",
     "08. Media & Resources/Pasted image 20250519151425.png",
