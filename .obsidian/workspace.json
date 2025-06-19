@@ -77,13 +77,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS - NEA - Project Ideation.md",
+                "file": "00. Daily/2025-06-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CS - NEA - Project Ideation"
+              "title": "2025-06-19"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS - NEA - Project Ideation.md",
+                "file": "00. Daily/2025-06-19.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CS - NEA - Project Ideation"
+              "title": "Outline of 2025-06-19"
             }
           },
           {
@@ -303,7 +303,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS - NEA - Project Ideation.md",
+                "file": "00. Daily/2025-06-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -331,7 +331,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CS - NEA - Project Ideation"
+              "title": "Graph of 2025-06-19"
             }
           }
         ]
@@ -356,6 +356,8 @@
   },
   "active": "182d29419c2daded",
   "lastOpenFiles": [
+    "CS - NEA - Project Ideation.md",
+    "00. Daily/2025-06-19.md",
     "00. Daily/2025-06-17.md",
     "CS - NEA - Analysis Guides.md",
     "02. School/A-Levels/Computer Science/CS - RW - Graphs.md",
@@ -363,7 +365,6 @@
     "02. School/A-Levels/Computer Science/CS - RW - Search Algorithms.md",
     "02. School/A-Levels/Computer Science/CS - RW - Algorithms.md",
     "00. Daily/2025-06-16.md",
-    "CS - NEA - Project Ideation.md",
     "00. Daily/2025-06-13.md",
     "ugclug.md",
     "CS - Missed Topics.md",
@@ -385,7 +386,6 @@
     "01. Dashboard & MOCs/Dashboard.md",
     "01. Dashboard & MOCs/Daily Note MOC.md",
     "00. Daily/2025-06-10.md",
-    "00. Daily/2025-06-06.md",
     "08. Media & Resources/Pasted image 20250604130340.png",
     "08. Media & Resources/Pasted image 20250603104029.png",
     "08. Media & Resources/Pasted image 20250602113658.png",
